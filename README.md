@@ -10,6 +10,7 @@
 - gametdb.com
 - gvcover.top
 - thecoverproject.net
+- github.com/libretro-thumbnails
 
 
 <!-- pcsx2.net
