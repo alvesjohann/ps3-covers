@@ -2,7 +2,7 @@
 
 | Serial | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
-| BLJM | ??/?? | ??.??% |
+| BLJM | 1/?? | ??.??% |
 
 
 ## Credits
