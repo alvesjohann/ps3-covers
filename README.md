@@ -11,6 +11,7 @@
 - gvcover.top
 - thecoverproject.net
 - github.com/libretro-thumbnails
+- serialstation.com (serials data)
 
 
 <!-- pcsx2.net
