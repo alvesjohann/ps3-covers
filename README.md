@@ -1,3 +1,5 @@
+*Based on the work of xlenore in the ´psx-covers´ and `ps2-covers`, but for ps3 covers*
+
 ## Covers Stats
 
 | Serial | Available/Total | Percentage |
