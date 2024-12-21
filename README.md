@@ -1,10 +1,18 @@
-## Covers Stats
+<!--- ## Covers Stats
 
 | Serial | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
-| BLJM | 1/?? | ??.??% |
+| BLJM | 1/?? | ??.??% |-->
 
 
 ## Credits
 - wiki.rpcs3.net
-- www.gametdb.com
+- gametdb.com
+- gvcover.top
+- thecoverproject.net
+
+
+<!-- pcsx2.net
+psxdatacenter.com
+imkira3
+waifu2x -->
