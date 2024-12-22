@@ -2,12 +2,12 @@
 
 ## Covers Stats
 
-All physical media files are `517x600` and `.jpg`.
+All physical media files are `520x600` and `.jpg`.
 
 | ID | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
 | ASIA | 0/6 | 0.00% |
-| BCAS | 0/335 | 0.00% |
+| BCAS | 1/335 | 0.30% |
 | BCAX | 0/3 | 0.00% |
 | BCED | 0/6 | 0.00% |
 | BCES | 0/279 | 0.00% |
@@ -17,7 +17,7 @@ All physical media files are `517x600` and `.jpg`.
 | BCJS | 1/130 | 0.77% |
 | BCJX | 0/7 | 0.00% |
 | BCKS | 0/205 | 0.00% |
-| BCUS | 0/249 | 0.00% |
+| BCUS | 2/249 | 0.80% |
 | BLAS | 0/403 | 0.00% |
 | BLED | 0/8 | 0.00% |
 | BLES | 0/1479 | 0.00% |
