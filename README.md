@@ -1,4 +1,4 @@
-*Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers*
+*Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
 
 ## Covers Stats
 
