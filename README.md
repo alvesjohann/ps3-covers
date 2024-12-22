@@ -1,5 +1,7 @@
 *Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
 
+All files are `517x600` and `.jpg`.
+
 ## Covers Stats
 
 | Serial | Available/Total | Percentage |
