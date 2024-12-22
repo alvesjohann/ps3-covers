@@ -1,13 +1,17 @@
+*Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
+
 ## Covers Stats
 
 | Serial | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
-| ASIA | 0/??? | 0.00% |
+| ASIA | 0/6 | 0.00% |
 | BCAS | 0/355 | 0.00% |
 | BCAX | 0/3 | 0.00% |
 | BCES | 0/279 | 0.00% |
 | BCET | 0/50 | 0.00% |
 | BCJB | 0/13 | 0.00% |
+||||
+| BLJM | 1/??? | ?.??% |
 
 
 ## Credits
