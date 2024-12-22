@@ -4,7 +4,7 @@ All files are `517x600` and `.jpg`.
 
 ## Covers Stats
 
-| Serial | Available/Total | Percentage |
+| ID | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
 | ASIA | 0/6 | 0.00% |
 | BCAS | 0/335 | 0.00% |
