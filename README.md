@@ -1,7 +1,9 @@
-*Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
+*⭐**Star this repo if it was useful to you**⭐*
+
+⚠️**Please report Not found | Low quality | Wrong covers**⚠️
 
 ## Covers Stats (Physical Media)
-*This table considers the original files only (like `BCUS-98257`), variants (like `BCUS-98257F`) are added when founded, but they are not considered in the counting.*
+*This table considers the original ID files (like `BCUS-98257`), variants (like `BCUS-98257F`) are added and counted only when founded.*
 
 All files are `520x600` and `.jpg`.
 
@@ -13,13 +15,13 @@ All files are `520x600` and `.jpg`.
 | BCED | 0/6 | 0.00% |
 | BCES | 0/279 | 0.00% |
 | BCET | 0/49 | 0.00% |
-| BCJB | 0/13 | 0.00%|
-| BCJD | 0/1 | 0.00%|
+| BCJB | 0/13 | 0.00% |
+| BCJD | 0/1 | 0.00% |
 | BCJS | 2/130 | 1.54% |
 | BCJX | 0/7 | 0.00% |
 | BCKS | 0/205 | 0.00% |
-| BCUS | 6/249 | 2.41% |
-| BLAS | 0/403 | 0.00% |
+| BCUS | 7/250 | 2.80% |
+| BLAS | 1/403 | 0.25% |
 | BLED | 0/8 | 0.00% |
 | BLES | 1/1479 | 0.07% |
 | BLET | 0/52 | 0.00% |
@@ -29,12 +31,14 @@ All files are `520x600` and `.jpg`.
 | BLJX | 0/7 | 0.00% |
 | BLKS | 0/353 | 0.00% |
 | BLUD | 0/9 | 0.00% |
-| BLUS | 4/1253 | 0.32% |
+| BLUS | 10/1257 | 0.80% |
 | BOOG | 0/1 | 0.00% |
 | MRTC | 0/7 | 0.00% |
 | XCES | 0/8 | 0.00% |
 | XCJS | 0/2 | 0.00% |
 | XCUS | 0/3 | 0.00% |
+
+Total covers: 25 (0.40%)
 
 ## Covers Stats (PSN)
 
@@ -80,6 +84,8 @@ All files are `520x600` and `.jpg`.
 | NPUP | 0/1 | 0.00% |
 | NPUZ | 0/258 | 0.00% |
 
+Total covers: 0 (0.00%)
+
 ## Credits
 - wiki.rpcs3.net (covers)
 - gametdb.com (covers and serial data)
@@ -89,6 +95,7 @@ All files are `520x600` and `.jpg`.
 - serialstation.com (serials data)
 - truetrophies.com (game info)
 - psdevwiki.com (ID/Serial info)
+-*Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
 
 
 <!-- pcsx2.net
