@@ -95,7 +95,7 @@ Total covers: 0 (0.00%)
 - serialstation.com (serials data)
 - truetrophies.com (game info)
 - psdevwiki.com (ID/Serial info)
--*Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
+- *Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
 
 
 <!-- pcsx2.net
