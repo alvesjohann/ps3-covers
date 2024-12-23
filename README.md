@@ -2,7 +2,7 @@
 
 ## Covers Stats
 
-All physical media files are `520x600` and `.jpg`.
+All physical media files are `520x600` and `.jpg`. 
 
 | ID | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
