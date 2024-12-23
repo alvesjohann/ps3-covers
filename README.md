@@ -23,7 +23,7 @@ All files are `520x600` and `.jpg`.
 | BCUS | 8/251 | 3.19% |
 | BLAS | 1/403 | 0.25% |
 | BLED | 0/8 | 0.00% |
-| BLES | 2/1479 | 0.14% |
+| BLES | 4/1479 | 0.27% |
 | BLET | 0/52 | 0.00% |
 | BLJB | 0/3 | 0.00% |
 | BLJM | 1/1007 | 0.10% |
@@ -31,14 +31,14 @@ All files are `520x600` and `.jpg`.
 | BLJX | 0/7 | 0.00% |
 | BLKS | 0/353 | 0.00% |
 | BLUD | 0/9 | 0.00% |
-| BLUS | 11/1257 | 0.88% |
+| BLUS | 13/1257 | 1.03% |
 | BOOG | 0/1 | 0.00% |
 | MRTC | 0/7 | 0.00% |
 | XCES | 0/8 | 0.00% |
 | XCJS | 0/2 | 0.00% |
 | XCUS | 0/3 | 0.00% |
 
-Total covers: 28 (0.45%)
+Total covers: 32 (0.51%)
 
 ## Covers Stats (PSN)
 
@@ -91,7 +91,6 @@ Total covers: 0 (0.00%)
 - gametdb.com (covers and serial data)
 - gvcover.top (covers)
 - thecoverproject.net (covers)
-- github.com/libretro-thumbnails (covers)
 - serialstation.com (serials data)
 - truetrophies.com (game info)
 - psdevwiki.com (ID/Serial info)
@@ -104,4 +103,5 @@ imkira3
 waifu2x 
 https://en.wikipedia.org/wiki/List_of_PlayStation_3_games_(A%E2%80%93C)
 https://www.psdevwiki.com/ps3/TITLE_ID
+github.com/libretro-thumbnails (covers)
 -->
