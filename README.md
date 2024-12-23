@@ -2,7 +2,8 @@
 
 ## Covers Stats (Physical Media)
 
-All files are `520x600` and `.jpg`. 
+All files are `520x600` and `.jpg`.
+*This table considers the original files only (like `BCUS-98257`), variants (like `BCUS-98257F`) are added when founded, but they are not considered in the counting.*
 
 | ID | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
