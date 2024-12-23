@@ -17,7 +17,7 @@ All physical media files are `520x600` and `.jpg`.
 | BCJS | 1/130 | 0.77% |
 | BCJX | 0/7 | 0.00% |
 | BCKS | 0/205 | 0.00% |
-| BCUS | 2/249 | 0.80% |
+| BCUS | 3/249 | 1.20% |
 | BLAS | 0/403 | 0.00% |
 | BLED | 0/8 | 0.00% |
 | BLES | 0/1479 | 0.00% |
