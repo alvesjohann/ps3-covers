@@ -1,8 +1,8 @@
 *Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
 
-## Covers Stats
+## Covers Stats (Physical Media)
 
-All physical media files are `520x600` and `.jpg`. 
+All files are `520x600` and `.jpg`. 
 
 | ID | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
@@ -31,48 +31,53 @@ All physical media files are `520x600` and `.jpg`.
 | BLUS | 1/1253 | 0.08% |
 | BOOG | 0/1 | 0.00% |
 | MRTC | 0/7 | 0.00% |
-| NPEA* | 0/455 | 0.00% |
-| NPEB* | 0/2034 | 0.00% |
-| NPEC* | 0/1 | 0.00% |
-| NPED* | 0/173 | 0.00% |
-| NPEE* | 0/39 | 0.00% |
-| NPEF* | 0/185 | 0.00% |
-| NPEJ* | 0/1 | 0.00% |
-| NPEL* | 0/1 | 0.00% |
-| NPEX* | 0/15 | 0.00% |
-| NPEZ* | 0/307 | 0.00% |
-| NPHA* | 0/202 | 0.00% |
-| NPHB* | 0/626 | 0.00% |
-| NPHC* | 0/7 | 0.00% |
-| NPHD* | 0/33 | 0.00% |
-| NPHI* | 0/32 | 0.00% |
-| NPHJ* | 0/316 | 0.00% |
-| NPHL* | 0/1 | 0.00% |
-| NPHP* | 0/1 | 0.00% |
-| NPHX* | 0/20 | 0.00% |
-| NPHZ* | 0/136 | 0.00% |
-| NPJA* | 0/363 | 0.00% |
-| NPJB* | 0/1684 | 0.00% |
-| NPJC* | 0/16 | 0.00% |
-| NPJD* | 0/104 | 0.00% |
-| NPJI* | 0/70 | 0.00% |
-| NPJJ* | 0/813 | 0.00% |
-| NPKA* | 0/1 | 0.00% |
-| NPKB* | 0/1 | 0.00% |
-| NPUA* | 0/445 | 0.00% |
-| NPUB* | 0/2170 | 0.00% |
-| NPUC* | 0/6 | 0.00% |
-| NPUD* | 0/116 | 0.00% |
-| NPUF* | 0/62 | 0.00% |
-| NPUI* | 0/37 | 0.00% |
-| NPUJ* | 0/181 | 0.00% |
-| NPUP* | 0/1 | 0.00% |
-| NPUZ* | 0/258 | 0.00% |
 | XCES | 0/8 | 0.00% |
 | XCJS | 0/2 | 0.00% |
 | XCUS | 0/3 | 0.00% |
 
-*PSN covers are not priority at the moment.
+## Covers Stats (PSN)
+
+*PSN covers are not priority at the moment.* 
+
+| ID | Available/Total | Percentage |
+| ------ | --------------- | ---------- |
+| NPEA | 0/455 | 0.00% |
+| NPEB | 0/2034 | 0.00% |
+| NPEC | 0/1 | 0.00% |
+| NPED | 0/173 | 0.00% |
+| NPEE | 0/39 | 0.00% |
+| NPEF | 0/185 | 0.00% |
+| NPEJ | 0/1 | 0.00% |
+| NPEL | 0/1 | 0.00% |
+| NPEX | 0/15 | 0.00% |
+| NPEZ | 0/307 | 0.00% |
+| NPHA | 0/202 | 0.00% |
+| NPHB | 0/626 | 0.00% |
+| NPHC | 0/7 | 0.00% |
+| NPHD | 0/33 | 0.00% |
+| NPHI | 0/32 | 0.00% |
+| NPHJ | 0/316 | 0.00% |
+| NPHL | 0/1 | 0.00% |
+| NPHP | 0/1 | 0.00% |
+| NPHX | 0/20 | 0.00% |
+| NPHZ | 0/136 | 0.00% |
+| NPJA | 0/363 | 0.00% |
+| NPJB | 0/1684 | 0.00% |
+| NPJC | 0/16 | 0.00% |
+| NPJD | 0/104 | 0.00% |
+| NPJI | 0/70 | 0.00% |
+| NPJJ | 0/813 | 0.00% |
+| NPKA | 0/1 | 0.00% |
+| NPKB | 0/1 | 0.00% |
+| NPUA | 0/445 | 0.00% |
+| NPUB | 0/2170 | 0.00% |
+| NPUC | 0/6 | 0.00% |
+| NPUD | 0/116 | 0.00% |
+| NPUF | 0/62 | 0.00% |
+| NPUI | 0/37 | 0.00% |
+| NPUJ | 0/181 | 0.00% |
+| NPUP | 0/1 | 0.00% |
+| NPUZ | 0/258 | 0.00% |
 
 ## Credits
 - wiki.rpcs3.net (covers)
