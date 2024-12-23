@@ -1,9 +1,9 @@
 *Based on the work of xlenore in the `psx-covers` and `ps2-covers` repositories, but for ps3 covers.*
 
 ## Covers Stats (Physical Media)
+*This table considers the original files only (like `BCUS-98257`), variants (like `BCUS-98257F`) are added when founded, but they are not considered in the counting.*
 
 All files are `520x600` and `.jpg`.
-*This table considers the original files only (like `BCUS-98257`), variants (like `BCUS-98257F`) are added when founded, but they are not considered in the counting.*
 
 | ID | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
