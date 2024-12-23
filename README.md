@@ -10,7 +10,7 @@ All files are `520x600` and `.jpg`.
 | ID | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
 | ASIA | 0/6 | 0.00% |
-| BCAS | 3/335 | 0.90% |
+| BCAS | 4/335 | 1.19% |
 | BCAX | 0/3 | 0.00% |
 | BCED | 0/6 | 0.00% |
 | BCES | 0/279 | 0.00% |
@@ -20,7 +20,7 @@ All files are `520x600` and `.jpg`.
 | BCJS | 2/130 | 1.54% |
 | BCJX | 0/7 | 0.00% |
 | BCKS | 0/205 | 0.00% |
-| BCUS | 8/251 | 3.19% |
+| BCUS | 11/251 | 4.38% |
 | BLAS | 1/403 | 0.25% |
 | BLED | 0/8 | 0.00% |
 | BLES | 4/1479 | 0.27% |
@@ -38,7 +38,7 @@ All files are `520x600` and `.jpg`.
 | XCJS | 0/2 | 0.00% |
 | XCUS | 0/3 | 0.00% |
 
-Total covers: 33 (0.53%)
+Total covers: 37 (0.59%)
 
 ## Covers Stats (PSN)
 
