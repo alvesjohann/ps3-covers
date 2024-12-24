@@ -104,4 +104,5 @@ waifu2x
 https://en.wikipedia.org/wiki/List_of_PlayStation_3_games_(A%E2%80%93C)
 https://www.psdevwiki.com/ps3/TITLE_ID
 github.com/libretro-thumbnails (covers)
+https://wiki.rpcs3.net/index.php?title=Category:Covers
 -->
