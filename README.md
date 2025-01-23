@@ -23,10 +23,10 @@ All files are `520x600` and `.jpg`.
 | BCUS | 21/253 | 8.30% |
 | BLAS | 3/404 | 0.74% |
 | BLED | 0/8 | 0.00% |
-| BLES | 41/1480 | 2.77% |
+| BLES | 42/1480 | 2.84% |
 | BLET | 0/52 | 0.00% |
 | BLJB | 0/3 | 0.00% |
-| BLJM | 19/1007 | 1.89% |
+| BLJM | 25/1007 | 2.48% |
 | BLJS | 5/377 | 1.33% |
 | BLJX | 0/7 | 0.00% |
 | BLKS | 0/353 | 0.00% |
@@ -38,7 +38,7 @@ All files are `520x600` and `.jpg`.
 | XCJS | 0/2 | 0.00% |
 | XCUS | 0/3 | 0.00% |
 
-Total covers: 246 (3.92%)
+Total covers: 253 (4.03%)
 
 ## Covers Stats (PSN)
 
