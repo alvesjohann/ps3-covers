@@ -31,14 +31,14 @@ All files are `520x600` and `.jpg`.
 | BLJX | 0/7 | 0.00% |
 | BLKS | 0/353 | 0.00% |
 | BLUD | 0/9 | 0.00% |
-| BLUS | 151/1275 | 11.84% |
+| BLUS | 162/1278 | 12.68% |
 | BOOG | 0/1 | 0.00% |
 | MRTC | 0/7 | 0.00% |
 | XCES | 0/8 | 0.00% |
 | XCJS | 0/2 | 0.00% |
 | XCUS | 0/3 | 0.00% |
 
-Total covers: 268 (4.27%)
+Total covers: 279 (4.44%)
 
 ## Covers Stats (PSN)
 
