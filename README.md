@@ -20,10 +20,10 @@ All files are `520x600` and `.jpg`.
 | BCJS | 6/130 | 4.62% |
 | BCJX | 0/7 | 0.00% |
 | BCKS | 0/205 | 0.00% |
-| BCUS | 26/253 | 10.28% |
+| BCUS | 27/254 | 10.63% |
 | BLAS | 3/404 | 0.74% |
 | BLED | 0/8 | 0.00% |
-| BLES | 46/1480 | 3.11% |
+| BLES | 47/1480 | 3.18% |
 | BLET | 0/52 | 0.00% |
 | BLJB | 0/3 | 0.00% |
 | BLJM | 29/1007 | 2.88% |
@@ -31,14 +31,14 @@ All files are `520x600` and `.jpg`.
 | BLJX | 0/7 | 0.00% |
 | BLKS | 0/353 | 0.00% |
 | BLUD | 0/9 | 0.00% |
-| BLUS | 174/1278 | 13.62% |
+| BLUS | 176/1278 | 13.77% |
 | BOOG | 0/1 | 0.00% |
 | MRTC | 0/7 | 0.00% |
 | XCES | 0/8 | 0.00% |
 | XCJS | 0/2 | 0.00% |
 | XCUS | 0/3 | 0.00% |
 
-Total covers: 302 (4.80%)
+Total covers: 306 (4.87%)
 
 ## Covers Stats (PSN)
 
@@ -94,6 +94,7 @@ Total covers: 0 (0.00%)
 - serialstation.com (serials data)
 - truetrophies.com (game info)
 - psdevwiki.com (ID/Serial info)
+- playstation3-center.com
 - [Resources](https://github.com/aldostools/Resources) from `aldostools`
 - *Based on the work of `xlenore` in the [psx-covers](https://github.com/xlenore/psx-covers) and [ps2-covers](https://github.com/xlenore/ps2-covers) repositories, but for ps3 covers.*
 
@@ -107,4 +108,6 @@ https://www.psdevwiki.com/ps3/TITLE_ID
 github.com/libretro-thumbnails (covers)
 https://wiki.rpcs3.net/index.php?title=Category:Covers
 https://github.com/aldostools/Resources
+https://consolevariations.com/
+http://wiki.redump.org/index.php?title=Sony_PlayStation_3_-_USA_and_Americas_Undumped_Discs
 -->
