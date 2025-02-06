@@ -4,7 +4,7 @@
 
 ## How to use links
 Use this URL pattern for default covers (you'll have to implement the automation yourself):
-<br>```https://raw.githubusercontent.com/alvesjohann/ps3-covers/refs/heads/main/covers/default/SERIAL_OF_THE_GAME.jpg```
+<br>```https://raw.githubusercontent.com/alvesjohann/ps3-covers/refs/heads/main/covers/default/GAME-SERIAL.jpg```
 
 Example: 
 <br>```https://raw.githubusercontent.com/alvesjohann/ps3-covers/refs/heads/main/covers/default/BCUS-98257.jpg```
